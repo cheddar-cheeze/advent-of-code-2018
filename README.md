@@ -1,15 +1,15 @@
 # advent-of-code2018
 ## Languages I Will Write In
-- Rust
-- Python
-- C++
-- C
+- [Rust](https://rust-lang.org)
+- [Python](https://python.org)
+- [C++](https://learncpp.com
+- [C](https://c-language.com)
 - Shell
 ## Languages I Might Try Out
-- Ruby
+- [Ruby](https://ruby-lang.org)
 - Assembly
-- Go
-- Php
+- [Go](https://golang.org)
+- [Php](https://php.net)
 ## HELL NO
 - C#
 - .NET
